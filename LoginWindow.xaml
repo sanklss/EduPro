@@ -5,8 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EduPro"
         mc:Ignorable="d"
-        Title="LoginWindow" Height="450" Width="800">
+        Title="LoginWindow" Height="450" Width="300">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label Content="Логин" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="LoginTextBox" Grid.Row="2" Grid.Column="1" Width="160"/>
+        <Label Content="Пароль" Grid.Row="3" Grid.Column="1"/>
+        <PasswordBox x:Name="PasswordBox" Grid.Row="4" Grid.Column="1" Width="160"/>
+        <Button x:Name="EnterButton" Content="Войти" Grid.Row="6" Grid.Column="1" Width="160" Click="EnterButton_Click"/>
+        <Button x:Name="GuestButton" Content="Гость" Grid.Row="8" Grid.Column="1" Width="160" Click="GuestButton_Click"/>
     </Grid>
 </Window>
