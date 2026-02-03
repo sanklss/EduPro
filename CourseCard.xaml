@@ -41,12 +41,12 @@
 
                 <StackPanel Grid.Row="0">
                     <Label Content="Стоимость"/>
-                    <Label Content="{Binding Price}" FontSize="14" FontWeight="Bold"/>
+                    <Label Content="{Binding Price}"/>
                 </StackPanel>
 
                 <StackPanel Grid.Row="2" VerticalAlignment="Bottom">
                     <Label Content="Свободных мест"/>
-                    <Label Content="{Binding FreeSeat}" FontSize="14" FontWeight="Bold"/>
+                    <Label Content="{Binding FreeSeat}"/>
                 </StackPanel>
             </Grid>
         </Grid>

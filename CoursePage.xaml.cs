@@ -29,6 +29,7 @@ namespace EduPro
             InitializeComponent();
             _role = role;
             LoadData();
+            AdjustInterface();
         }
 
         private void LoadData()
@@ -40,6 +41,32 @@ namespace EduPro
                     .Include(r => r.PrepodType)
                     .ToList();
             }
+        }
+
+        private void AdjustInterface()
+        {
+            if (_role == null)
+            {
+                RequestButton.Visibility = Visibility.Collapsed;
+            }
+
+            switch (_role.Id)
+            {
+                case 1:
+                    RequestButton.Visibility = Visibility.Visible;
+                    break;
+                case 2:
+                    RequestButton.Visibility = Visibility.Visible;
+                    break;
+                case 3:
+                    RequestButton.Visibility = Visibility.Collapsed;
+                    break;
+            }
+        }
+
+        private void RequestButton_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new RequestPage());
         }
     }
 }

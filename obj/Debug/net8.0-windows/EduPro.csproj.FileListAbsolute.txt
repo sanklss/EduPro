@@ -152,3 +152,7 @@ C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windo
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\CoursePage.baml
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\LoginWindow.baml
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\EduPro.sourcelink.json
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestCard.g.cs
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestPage.g.cs
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestCard.baml
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestPage.baml
