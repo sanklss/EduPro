@@ -29,6 +29,7 @@
                 <Label Content="{Binding Date}"/>
                 <Label Content="Статус"/>
                 <Label Content="{Binding RequestStatus.Name}"/>
+                <Button Content="Редакт." x:Name="RedactButton" Click="RedactButton_Click"/>
             </StackPanel>
         </Grid>
     </Border>

@@ -48,6 +48,7 @@ namespace EduPro
             if (_role == null)
             {
                 RequestButton.Visibility = Visibility.Collapsed;
+                return;
             }
 
             switch (_role.Id)
@@ -66,7 +67,7 @@ namespace EduPro
 
         private void RequestButton_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new RequestPage());
+            NavigationService.Navigate(new RequestPage(_role));
         }
     }
 }

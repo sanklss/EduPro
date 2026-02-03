@@ -156,3 +156,5 @@ C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windo
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestPage.g.cs
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestCard.baml
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestPage.baml
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestWindow.g.cs
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\RequestWindow.baml

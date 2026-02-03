@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduPro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5b775acfe67ec4c5385fd7c3484031f830386ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26925ba2a85c547c374cf35ee518aba95c4759c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduPro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduPro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

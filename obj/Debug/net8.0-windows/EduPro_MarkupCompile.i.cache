@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\App.xaml
-6-756842088
+71296947065
 
-22-271094075
+23-583842043
 228598961047
-CourseCard.xaml;CoursePage.xaml;LoginWindow.xaml;MainWindow.xaml;RequestCard.xaml;RequestPage.xaml;
+CourseCard.xaml;CoursePage.xaml;LoginWindow.xaml;MainWindow.xaml;RequestCard.xaml;RequestPage.xaml;RequestWindow.xaml;
 
 False
 
