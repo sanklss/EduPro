@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace EduPro;
+namespace EduPro.Models;
 
-public partial class Company
+public partial class Role
 {
     public int Id { get; set; }
 
