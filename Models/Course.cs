@@ -21,7 +21,7 @@ public partial class Course
         get
         {
             var today = new DateOnly(2026, 6, 10);
-            var daysLeft = today.DayNumber - Date.DayNumber;
+            var daysLeft = Date.DayNumber - today.DayNumber;
             return daysLeft is > 0 and < 7 ? FontWeights.Bold : FontWeights.Normal;
         }
     }

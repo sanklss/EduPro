@@ -144,3 +144,11 @@ C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windo
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\EduPro.pdb
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\EduPro.genruntimeconfig.cache
 C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\ref\EduPro.dll
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\CourseCard.g.cs
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\CoursePage.g.cs
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\CourseCard.baml
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\CoursePage.baml
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\Григорий\source\repos\Back\EduPro\EduPro\obj\Debug\net8.0-windows\EduPro.sourcelink.json
